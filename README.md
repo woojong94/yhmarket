@@ -71,3 +71,7 @@ Board
 
 <h1 align="center"> 로그인 (연희마켓) </h1>
 <img src="https://user-images.githubusercontent.com/86515946/144899726-fea401c0-67a4-4d97-9444-166e7d9a688e.png">
+
+<h1 align="center"> 회원가입 (연희마켓) </h1>
+<img src="https://user-images.githubusercontent.com/86515946/144901302-9d4ab635-752f-46d4-869a-762acbc9f21b.png">
+
